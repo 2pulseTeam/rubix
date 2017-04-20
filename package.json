@@ -17,7 +17,6 @@
     "lodash-compat": "^3.10.2",
     "pubsub-js": "^1.5.3",
     "query-string": "^4.2.2",
-    "react": "^15.3.0",
     "request-frame": "^1.4.1",
     "watch": "^0.19.1"
   },
