@@ -14,7 +14,6 @@
     "classnames": "^2.2.5",
     "history": "^3.2.1",
     "immutable": "^3.8.1",
-    "isomorphic-relay": "^0.7.1",
     "lodash-compat": "^3.10.2",
     "pubsub-js": "^1.5.3",
     "query-string": "^4.2.2",
